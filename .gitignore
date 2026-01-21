@@ -1,0 +1,8 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE settings (VS Code, JetBrains, etc.)
+.idea/
+.vscode/
+*.swp
